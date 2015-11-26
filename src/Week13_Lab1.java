@@ -10,9 +10,9 @@ public class Week13_Lab1
 	{
 		// TODO Auto-generated method stub
 		ThreeDice dice = new ThreeDice();
-		
+
 		int iThrow = dice.Throw();
-		
+
 		JOptionPane.showMessageDialog(null, iThrow);
 	}
 
